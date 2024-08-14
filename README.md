@@ -1,5 +1,3 @@
-### Good Practices for Asynchronous Text Communication
-
 ## Read and Acknowledge Messages Promptly  
    Promptly read and respond to direct messages and tagged messages/threads.
    At the very least, acknowledge receipt with an emoji or brief reply if you can't respond immediately (e.g., “Got it, will respond in an hour”). Direct mentions require a reply by the end of the day (unless you’re out of the office).
