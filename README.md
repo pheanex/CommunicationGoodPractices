@@ -1,39 +1,43 @@
-## 1. Read and Acknowledge Messages Promptly  
-   Promptly read and respond to direct messages and tagged messages/threads.
-   At the very least, acknowledge receipt with an emoji or brief reply if you can't respond immediately (e.g., “Got it, will respond in an hour”). Direct mentions require a reply by the end of the day (unless you’re out of the office).
+## 1. Use the Search Function/History
+    Before asking a question, search for conversations on the topic. It may have been asked and answered. If something remains unanswered or additional input is needed, add to that thread, as the context is set, saving retyping, and helping others find relevant information. This may lead to an answer sooner without requiring additional attention.
 
-## 2. Keep Notifications ON  
-   Ensure your notifications are enabled so that you stay reachable for urgent matters. Customize your notification settings, such as sound alerts, to ensure you’re alerted only for personal messages or specific channels. Reasonable adjustments are allowed (e.g., when you are presenting in a meeting and need to mute notifications), but the general rule is to ensure that you’re reachable during your business hours when you’re not in meetings or focus time.
+## 2. Effective Notification Setup
+    Adjust notification settings to notice all pings and mentions, especially urgent ones, while distinguishing them from less important messages. This reduces unnecessary messages, notifications, and reminders.
 
-## 3. Choose Threads Over Chaos  
-   Responding to messages within a thread, rather than creating a new message in a channel, confines the discussion and prevents cluttering the entire channel with unrelated chatter. It also makes it easier to review the conversation in the future.
+## 3. Acknowledge and Respond Promptly
+    Timely read, acknowledge and respond to direct messages and threads that tag you or your group. Delays may block the sender or cause them to send unnecessary reminders and messages to other potentially wrong audiences.
+Acknowledgement with an emoji is easy, fast and encouraged.
 
-## 4. Use the Search Function/History  
-   Before asking a question, particularly regarding a feature or process that has been in existence for a while (6+ months), try searching for it in the history. There is a chance that it has already been asked and answered.
+## 4. Use Threads
+    Respond within a thread, rather than creating a new message on the same level. Doing so confines the conversation and makes it easier to follow, link to and search for later.
 
-## 5. Lend a Helping Hand  
-   If you come across a question in channels with high cross-team and customer collaboration that appears to be a significant blocker for someone, consider responding or tagging the appropriate individual/team, even if you haven't been directly tagged but you know the answer or who can provide it.
+## 5. Help Direct Unanswered Queries
+    When a question seems to be blocking someone, tag the correct audience or refer them to the correct channel or tool if you know who can provide the answer. This may help the sender get a response sooner and guide them to a more suitable audience for future messages, reducing noise.
 
-## 6. Use Appropriate Channels and Tags  
-   When you have a question or need feedback on a topic specific to a particular domain, post it in the relevant channel or tag the appropriate team handles in broader channels. Make sure to accurately target your messages to the relevant audience. If you need broader feedback, such as for surveys, coordinate with managers to facilitate participation within their respective teams. While Slack serves as our main channel for communication between individuals, it isn’t a tool for tracking requests or queries for a specific group. For such items, make sure to use the established process (Jira and others) for the given function.
+## 6. Use Appropriate Tools, Channels and Tags
+    Learn which tool (Slack, Jira, Confluence, etc.), channel, and tag best suit your message. This can lead to answers sooner from the right sources, minimizing unnecessary notifications to unrelated recipients and making it easier for others to rediscover the information later by placing it in the proper context.
 
-## 7. Avoid a Mass Broadcast  
-   Refrain from using @here, @channel, @all in public channels as much as possible. There are cases when it may be needed, but the standard practice is that users are encouraged to check such channels daily for all updates at a convenient time for them.
+## 7. Avoid Broadcast  
+    Use @here, @channel, and @all sparingly, especially in channels with many recipients. Instead, opt for more specific channels and mentions. Broad, unspecified messages to large groups often fail to motivate individuals to respond, may result in too many replies, and create unnecessary notifications.
 
-## 8. Opt for Channels for Project Matters  
-   When addressing project-related matters, refrain from using private messages as they are prone to be overlooked and raise the bus factor unnecessarily. Keep all conversations on channels (dedicated to a project, a team channel, or a functional channel). This ensures that relevant context is readily available whenever involvement from others is required.
+## 8. Avoid Private Messages
+    Instead of reaching out to individuals through private messages, consider asking in a more inclusive or open channel. This makes it easier to involve others, allows more recipients to respond and learn from the conversation (reducing the need for repeated questions and notifications), and helps distribute the load, reducing pressure on individuals.
 
-## 9. Craft Meaningful & Informative Messages  
-    Before sending a message, ask yourself, “Will the person be able to give me a satisfactory answer based on the context that I’ve shared?”. It’s a win-win situation - you will avoid message ping pong and get your answer faster. It will also be less demanding for the recipient. Remember to do some investigation on your own beforehand to understand the issue or at least build some context about the problem to ask for more specific help.
+## 9. Avoid Delays, Give Details
+	Ensure your message includes all necessary information so recipients can answer immediately without needing to ask follow-up questions. This can prevent back-and-forth exchanges, reduce notifications, and lead to answers sooner.
 
-## 10. Ping People with a Reminder if Needed  
-    Don’t hesitate to ping people. Sometimes they just forget and would actually appreciate a reminder. It’s not - and shouldn’t be - taken as impolite to be respectfully pinged about a matter, especially if it’s important.
+## 10. Send Reminders
+	Don't hesitate to ping people for unacknowledged or unanswered messages to ensure you get the needed response. They may have forgotten and appreciate the reminder.
 
-## 11. Be Mindful of the Context and Share It  
-    When you bring someone into an already long thread, make sure to include a quick recap of the main points and what input exactly is needed from them, so they don't have to read the entire conversation.
+## 11. Involve New Participants Effectively
+	When adding someone to a long conversation, summarize the main points and clarify what is needed from them. This can expedite their input by saving them from reading lengthy, potentially unnecessary conversations.
 
-## 12. Consider Consultant vs. Contributor  
-    Many people may get pinged as part of long conversations, so try to limit pinging multiple users in a thread for specific conversation segments, especially if it already has a lot of participants and context. Instead, consider soliciting individual input outside the thread as necessary, treating others as consultants to minimize excessive notifications.
+## 12. Avoid Overloading Conversations
+	When possible, limit the number of people added to long conversations, especially if many are involved. If additional input is needed or a related topic arises, consider creating a new thread instead. Link the threads to maintain context. This approach reduces unnecessary notifications and makes conversations easier to follow and discover.
 
-## 13. Keep Your Status Up to Date  
-    To ensure others can anticipate your responsiveness based on your status (away, out of office, online), update it as necessary. To reduce the manual effort, try using integrations with your calendar so it automatically sets your status to unavailable during meetings. Consistently displaying an "away" status on Slack is discouraged.
+## 13. Update Your Profile Status
+	To help others anticipate your responsiveness, keep your status (away, out of office, online) updated as needed. This reduces unnecessary notifications and reminders. Calendar integrations can automate this process.
+
+## 14. Take Action on Unwanted Notifications
+	When receiving irrelevant notifications, guide the sender to the correct audience, provide feedback to stop unwanted messages, or unsubscribe from unnecessary topics, channels, or handles. Every notification should be relevant to avoid information overload and ensure important information isn't missed.
+
