@@ -6,7 +6,7 @@
 
 ## 3. Acknowledge and Respond Promptly  
     Timely read, acknowledge and respond to direct messages and threads that tag you or your group. Delays may block the sender or cause them to send unnecessary reminders and messages to other potentially wrong audiences.
-Acknowledgement with an emoji is easy, fast and encouraged.
+    Acknowledgement with an emoji is easy, fast and encouraged.
 
 ## 4. Use Threads  
     Respond within a thread, rather than creating a new message on the same level. Doing so confines the conversation and makes it easier to follow, link to and search for later.
