@@ -1,3 +1,5 @@
+Practices for better asynchronous text communication
+
 ## 1. Use the Search Function/History  
 
 Before asking a question, search for conversations on the topic. It may have been asked and answered. If something remains unanswered or additional input is needed, add to that thread, as the context is set, saving retyping, and helping others find relevant information. This may lead to an answer sooner without requiring additional attention.
